@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "P132VideoChat",
+			"Path": "..\\Source\\P132VideoChat.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "P132VideoChatEditor",
+			"Path": "..\\Source\\P132VideoChatEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
