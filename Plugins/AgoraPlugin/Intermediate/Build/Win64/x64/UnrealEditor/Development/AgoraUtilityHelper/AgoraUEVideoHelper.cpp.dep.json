@@ -1,0 +1,31 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\user\\documents\\unreal projects\\p132videochat\\plugins\\agoraplugin\\source\\agorautilityhelper\\private\\agorauevideohelper.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\user\\documents\\unreal projects\\p132videochat\\intermediate\\build\\win64\\x64\\p132videochateditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\user\\documents\\unreal projects\\p132videochat\\plugins\\agoraplugin\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\agorautilityhelper\\definitions.agorautilityhelper.h",
+            "c:\\users\\user\\documents\\unreal projects\\p132videochat\\plugins\\agoraplugin\\source\\agorautilityhelper\\public\\agorauevideohelper.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\media\\public\\imediaplayer.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\mediautils\\public\\mediaplayerfacade.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\media\\public\\imediaclocksink.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\media\\public\\imediaeventsink.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\mediautils\\public\\imediaplayerlifecyclemanager.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\media\\public\\imediatickable.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\media\\public\\imediatimesource.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\media\\public\\imediatracks.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\mediautils\\public\\mediaplayeroptions.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\mediautils\\uht\\mediaplayeroptions.generated.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\mediautils\\public\\mediasamplesink.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\mediautils\\public\\mediasamplesinks.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\mediaassets\\public\\mediaplayer.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\media\\public\\imediaoptions.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\media\\public\\imediametadataitem.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\media\\public\\imediacontrols.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\mediaassets\\uht\\mediaplayer.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,31 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-AgoraPlugin.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\User\Documents\Unreal Projects\P132VideoChat\Intermediate\Build\Win64\x64\P132VideoChatEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"C:\Users\User\Documents\Unreal Projects\P132VideoChat\Plugins\AgoraPlugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\AgoraPlugin\Module.AgoraPlugin.1.cpp.obj"
+"C:\Users\User\Documents\Unreal Projects\P132VideoChat\Plugins\AgoraPlugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\AgoraPlugin\Module.AgoraPlugin.2.cpp.obj"
+"C:\Users\User\Documents\Unreal Projects\P132VideoChat\Plugins\AgoraPlugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\AgoraPlugin\Module.AgoraPlugin.3.cpp.obj"
+"C:\Users\User\Documents\Unreal Projects\P132VideoChat\Plugins\AgoraPlugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\AgoraPlugin\Module.AgoraPlugin.4.cpp.obj"
+"C:\Users\User\Documents\Unreal Projects\P132VideoChat\Plugins\AgoraPlugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\AgoraPlugin\Module.AgoraPlugin.5.cpp.obj"
+"C:\Users\User\Documents\Unreal Projects\P132VideoChat\Plugins\AgoraPlugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\AgoraPlugin\Module.AgoraPlugin.6.cpp.obj"
+"C:\Users\User\Documents\Unreal Projects\P132VideoChat\Plugins\AgoraPlugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\AgoraPlugin\AgoraPlugin.cpp.obj"
+"C:\Users\User\Documents\Unreal Projects\P132VideoChat\Plugins\AgoraPlugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\AgoraPlugin\AgoraBPuDeviceManager.cpp.obj"
+"C:\Users\User\Documents\Unreal Projects\P132VideoChat\Plugins\AgoraPlugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\AgoraPlugin\AgoraBPuIMediaPlayerSourceObserver.cpp.obj"
+"C:\Users\User\Documents\Unreal Projects\P132VideoChat\Plugins\AgoraPlugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\AgoraPlugin\AgoraBPuIRtcEngineEventHandler.cpp.obj"
+"C:\Users\User\Documents\Unreal Projects\P132VideoChat\Plugins\AgoraPlugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\AgoraPlugin\AgoraBPuIRtcEngineEventHandlerEx.cpp.obj"
+"C:\Users\User\Documents\Unreal Projects\P132VideoChat\Plugins\AgoraPlugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\AgoraPlugin\AgoraBPuMediaPlayer.cpp.obj"
+"C:\Users\User\Documents\Unreal Projects\P132VideoChat\Plugins\AgoraPlugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\AgoraPlugin\AgoraBPuRtcEngine.cpp.obj"
+"C:\Users\User\Documents\Unreal Projects\P132VideoChat\Plugins\AgoraPlugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\AgoraPlugin\UtilityAgoraBPuLogger.cpp.obj"
+"C:\Users\User\Documents\Unreal Projects\P132VideoChat\Plugins\AgoraPlugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\AgoraPlugin\AgoraUERTCEngine.cpp.obj"
+"C:\Users\User\Documents\Unreal Projects\P132VideoChat\Plugins\AgoraPlugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\AgoraPlugin\UnrealMemory.cpp.obj"
+"C:\Users\User\Documents\Unreal Projects\P132VideoChat\Plugins\AgoraPlugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\AgoraPlugin\AgoraUEVideoFrameObserver.cpp.obj"
+"C:\Users\User\Documents\Unreal Projects\P132VideoChat\Plugins\AgoraPlugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\AgoraPlugin\VideoFrameDataManager.cpp.obj"
+"C:\Users\User\Documents\Unreal Projects\P132VideoChat\Plugins\AgoraPlugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\AgoraPlugin\VideoFrameRender.cpp.obj"
+"C:\Users\User\Documents\Unreal Projects\P132VideoChat\Plugins\AgoraPlugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\AgoraPlugin\VideoFrameRenderManager.cpp.obj"
+"C:\Users\User\Documents\Unreal Projects\P132VideoChat\Plugins\AgoraPlugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\AgoraPlugin\Default.rc2.res"
+/OUT:"C:\Users\User\Documents\Unreal Projects\P132VideoChat\Plugins\AgoraPlugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\AgoraPlugin\UnrealEditor-AgoraPlugin.lib"

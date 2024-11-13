@@ -1,0 +1,35 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.AgoraPlugin.1.cpp.obj": [
+			"AgoraBPuBaseDataTypes.gen.cpp.obj"
+		],
+		"Module.AgoraPlugin.2.cpp.obj": [
+			"AgoraBPuDeviceManager.gen.cpp.obj",
+			"AgoraBPuIMediaPlayerSourceObserver.gen.cpp.obj"
+		],
+		"Module.AgoraPlugin.3.cpp.obj": [
+			"AgoraBPuIRtcEngineEventHandler.gen.cpp.obj"
+		],
+		"Module.AgoraPlugin.4.cpp.obj": [
+			"AgoraBPuIRtcEngineEventHandlerEx.gen.cpp.obj"
+		],
+		"Module.AgoraPlugin.5.cpp.obj": [
+			"AgoraBPuMediaPlayer.gen.cpp.obj",
+			"AgoraBPuRtcEngine.gen.cpp.obj"
+		],
+		"Module.AgoraPlugin.6.cpp.obj": [
+			"AgoraPlugin.init.gen.cpp.obj",
+			"UtilityAgoraBPuLogger.gen.cpp.obj",
+			"UtilityUABTTypeHelper.gen.cpp.obj",
+			"AgoraBPuDeviceManager.cpp.obj",
+			"AgoraBPuIMediaPlayerSourceObserver.cpp.obj",
+			"AgoraBPuIRtcEngineEventHandler.cpp.obj",
+			"AgoraBPuIRtcEngineEventHandlerEx.cpp.obj",
+			"AgoraBPuMediaPlayer.cpp.obj",
+			"AgoraBPuRtcEngine.cpp.obj",
+			"UtilityAgoraBPuLogger.cpp.obj",
+			"AgoraUERTCEngine.cpp.obj"
+		]
+	}
+}

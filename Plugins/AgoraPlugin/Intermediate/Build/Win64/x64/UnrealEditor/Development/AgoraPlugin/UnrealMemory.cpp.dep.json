@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\user\\documents\\unreal projects\\p132videochat\\plugins\\agoraplugin\\source\\agoraplugin\\private\\agoracppplugin\\unrealmemory.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\user\\documents\\unreal projects\\p132videochat\\intermediate\\build\\win64\\x64\\p132videochateditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\user\\documents\\unreal projects\\p132videochat\\plugins\\agoraplugin\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\agoraplugin\\definitions.agoraplugin.h",
+            "c:\\users\\user\\documents\\unreal projects\\p132videochat\\plugins\\agoraplugin\\source\\agoraplugin\\public\\agoracppplugin\\unrealmemory.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
