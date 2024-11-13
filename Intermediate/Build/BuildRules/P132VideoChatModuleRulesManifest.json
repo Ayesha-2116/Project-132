@@ -1,0 +1,11 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\User\\Documents\\Unreal Projects\\P132VideoChat\\Source\\P132VideoChat\\P132VideoChat.Build.cs",
+		"C:\\Users\\User\\Documents\\Unreal Projects\\P132VideoChat\\Plugins\\AgoraPlugin\\Source\\AgoraPlugin\\AgoraPlugin.Build.cs",
+		"C:\\Users\\User\\Documents\\Unreal Projects\\P132VideoChat\\Plugins\\AgoraPlugin\\Source\\AgoraUtilityHelper\\AgoraUtilityHelper.build.cs",
+		"C:\\Users\\User\\Documents\\Unreal Projects\\P132VideoChat\\Plugins\\AgoraPlugin\\Source\\ThirdParty\\AgoraPluginLibrary\\AgoraPluginLibrary.Build.cs",
+		"C:\\Users\\User\\Documents\\Unreal Projects\\P132VideoChat\\Source\\P132VideoChat.Target.cs",
+		"C:\\Users\\User\\Documents\\Unreal Projects\\P132VideoChat\\Source\\P132VideoChatEditor.Target.cs"
+	],
+	"EngineVersion": "5.4.4"
+}
