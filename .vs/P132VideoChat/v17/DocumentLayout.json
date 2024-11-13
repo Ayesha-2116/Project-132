@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Documents\\Unreal Projects\\P132VideoChat\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EC66575A-924B-34B9-9855-F50E4DCE08E2}|Intermediate\\Build\\BuildRulesProjects\\P132VideoChatModuleRules\\P132VideoChatModuleRules.csproj|c:\\users\\user\\documents\\unreal projects\\p132videochat\\source\\p132videochateditor.target.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC66575A-924B-34B9-9855-F50E4DCE08E2}|Intermediate\\Build\\BuildRulesProjects\\P132VideoChatModuleRules\\P132VideoChatModuleRules.csproj|solutionrelative:source\\p132videochateditor.target.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC66575A-924B-34B9-9855-F50E4DCE08E2}|Intermediate\\Build\\BuildRulesProjects\\P132VideoChatModuleRules\\P132VideoChatModuleRules.csproj|c:\\users\\user\\documents\\unreal projects\\p132videochat\\source\\p132videochat\\p132videochat.build.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC66575A-924B-34B9-9855-F50E4DCE08E2}|Intermediate\\Build\\BuildRulesProjects\\P132VideoChatModuleRules\\P132VideoChatModuleRules.csproj|solutionrelative:source\\p132videochat\\p132videochat.build.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC66575A-924B-34B9-9855-F50E4DCE08E2}|Intermediate\\Build\\BuildRulesProjects\\P132VideoChatModuleRules\\P132VideoChatModuleRules.csproj|c:\\users\\user\\documents\\unreal projects\\p132videochat\\source\\p132videochat.target.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC66575A-924B-34B9-9855-F50E4DCE08E2}|Intermediate\\Build\\BuildRulesProjects\\P132VideoChatModuleRules\\P132VideoChatModuleRules.csproj|solutionrelative:source\\p132videochat.target.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "P132VideoChatEditor.Target.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Unreal Projects\\P132VideoChat\\Source\\P132VideoChatEditor.Target.cs",
+              "RelativeDocumentMoniker": "Source\\P132VideoChatEditor.Target.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\Unreal Projects\\P132VideoChat\\Source\\P132VideoChatEditor.Target.cs",
+              "RelativeToolTip": "Source\\P132VideoChatEditor.Target.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T18:35:24.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "P132VideoChat.Build.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Unreal Projects\\P132VideoChat\\Source\\P132VideoChat\\P132VideoChat.Build.cs",
+              "RelativeDocumentMoniker": "Source\\P132VideoChat\\P132VideoChat.Build.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\Unreal Projects\\P132VideoChat\\Source\\P132VideoChat\\P132VideoChat.Build.cs",
+              "RelativeToolTip": "Source\\P132VideoChat\\P132VideoChat.Build.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T18:35:16.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "P132VideoChat.Target.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Unreal Projects\\P132VideoChat\\Source\\P132VideoChat.Target.cs",
+              "RelativeDocumentMoniker": "Source\\P132VideoChat.Target.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\Unreal Projects\\P132VideoChat\\Source\\P132VideoChat.Target.cs",
+              "RelativeToolTip": "Source\\P132VideoChat.Target.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T18:34:47.648Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
