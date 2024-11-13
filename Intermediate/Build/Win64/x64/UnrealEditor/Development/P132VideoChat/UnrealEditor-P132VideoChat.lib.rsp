@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-P132VideoChat.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\User\Documents\Unreal Projects\P132VideoChat\Intermediate\Build\Win64\x64\P132VideoChatEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"C:\Users\User\Documents\Unreal Projects\P132VideoChat\Intermediate\Build\Win64\x64\UnrealEditor\Development\P132VideoChat\P132VideoChat.cpp.obj"
+"C:\Users\User\Documents\Unreal Projects\P132VideoChat\Intermediate\Build\Win64\x64\UnrealEditor\Development\P132VideoChat\Default.rc2.res"
+/OUT:"C:\Users\User\Documents\Unreal Projects\P132VideoChat\Intermediate\Build\Win64\x64\UnrealEditor\Development\P132VideoChat\UnrealEditor-P132VideoChat.lib"

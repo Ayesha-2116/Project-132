@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\user\\documents\\unreal projects\\p132videochat\\source\\p132videochat\\p132videochat.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\user\\documents\\unreal projects\\p132videochat\\intermediate\\build\\win64\\x64\\p132videochateditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\user\\documents\\unreal projects\\p132videochat\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\p132videochat\\definitions.p132videochat.h",
+            "c:\\users\\user\\documents\\unreal projects\\p132videochat\\source\\p132videochat\\p132videochat.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
