@@ -1,0 +1,18 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/zalaj/Documents/Unreal Projects/Chatbox/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/zalaj/Documents/Unreal Projects/Chatbox/Content/Chat/AC_Chat_PC.uasset",
+				"C:/Users/zalaj/Documents/Unreal Projects/Chatbox/Content/Chat/BP_GamePC.uasset",
+				"C:/Users/zalaj/Documents/Unreal Projects/Chatbox/Content/Chat/WB_Chatbox.uasset",
+				"C:/Users/zalaj/Documents/Unreal Projects/Chatbox/Content/Chat/WB_Chatentry.uasset",
+				"C:/Users/zalaj/Documents/Unreal Projects/Chatbox/Content/Chat/WB_ChatUI.uasset",
+				"C:/Users/zalaj/Documents/Unreal Projects/Chatbox/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset"
+			]
+		}
+	]
+}
