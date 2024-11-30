@@ -1,0 +1,30 @@
+# Ignore everything by default
+*
+
+# Allow the necessary folders and files
+!.gitignore
+!Content/
+!Content/**
+!Config/
+!Config/**
+!*.uproject
+!Apartment.png
+
+# Ignore Unreal build and cache directories
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Ignore system and editor-related files
+.vscode/
+.vs/
+*.sln
+*.suo
+*.VC.db
+*.opensdf
+*.opendb
+*.sdf
+
+# Ignore MacOS and Xcode related files
+*.xcodeproj
+*.xcworkspace
